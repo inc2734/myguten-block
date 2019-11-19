@@ -1,0 +1,12 @@
+{
+  "name": "myguten-block",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "wp-scripts build"
+  },
+  "author": "Takashi Kitajima",
+  "license": "GPL-2.0",
+  "devDependencies": {
+    "@wordpress/scripts": "6.0.0"
+  }
+}
