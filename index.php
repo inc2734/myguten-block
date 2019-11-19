@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: My Guten Block
+ * Plugin Name: MyGuten Block
  */
 
 add_action(

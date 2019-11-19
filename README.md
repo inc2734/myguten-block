@@ -1,4 +1,4 @@
-# My Guten block
+# MyGuten block
 
 ## Get Started
 ```
